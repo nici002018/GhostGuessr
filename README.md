@@ -39,3 +39,13 @@ Intercepts coordinate data from GeoGuessr's Google Maps API calls and places a m
 
 Marker not showing? Ensure you're on map view and location is loaded. Press '1' again.
 No Tampermonkey icon? Check `chrome://extensions/` and ensure Tampermonkey is enabled.
+
+## Disclaimer
+
+This script is provided for educational and personal use only. The author is not responsible for any consequences resulting from the use of this script. Users assume all risks associated with installation and usage.
+
+Use of this script may violate GeoGuessr's Terms of Service. It is the user's responsibility to review and comply with all applicable terms and conditions. The author does not endorse or encourage cheating, and this tool should only be used in accordance with GeoGuessr's rules and policies.
+
+The script intercepts network data to function. No personal data is collected, stored, or transmitted by this script. All processing occurs locally in your browser.
+
+By installing and using this script, you acknowledge that you understand these risks and agree to use it at your own discretion.
